@@ -33,7 +33,7 @@ After obtaining similarity matrix and sparse vectors of documents from TF-IDF, w
 
 ### K-Means and Principle Component Analysis
 
-K-means clustering is one of the popular clustering techniques, with K=5 and PCA dimensioanlity reduction, it generated following output.
+K-means clustering is one of the popular clustering techniques, with K=5 and PCA dimensionality reduction, it generated following output.
 
 ![KPCA](https://raw.githubusercontent.com/utkuozbulak/document-clustering/master/plots/lined_2.png "KPCA")
 
